@@ -1,5 +1,5 @@
 # CSE-0402_E-commerce-lab
-this is a E-commerce lab repository
+this is a E-commerce lab Repository
 
 Name:Tasnova Tasnim
 
